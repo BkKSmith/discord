@@ -1,0 +1,14 @@
+{
+  "name": "count",
+  "version": "1.0.0",
+  "description": "Bot to count number of users that are at locations for raids",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OB_BK",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
